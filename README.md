@@ -6,16 +6,16 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Computer Science with Cyber Security has led me to develop a passion for all aspetcs in cybersecurity, and I am now eager to put in practice skills and knwoledge learnt during studies and certifications to succeed into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Active Directory Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Active Directory Lab</a>|
+| Security Automation with Shuffle SOAR         |<a href="https://google.com">SOC Automation Lab</a>
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -49,7 +49,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
 - SOC Automation Project
 - Active Directory
 
