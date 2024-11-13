@@ -12,8 +12,8 @@ My journey in Computer Science with Cyber Security has led me to develop a passi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/SED2378/Active-Directory)">Active Directory Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/SED2378/Active-Directory)">Active Directory Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/SED2378/Active-Directory">Active Directory Lab</a>|           
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/SED2378/Active-Directory">Active Directory Lab</a>|
 | Security Automation with Shuffle SOAR         |<a href="https://google.com">SOC Automation Lab</a>
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
