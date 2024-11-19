@@ -48,6 +48,6 @@ My journey in Computer Science with Cyber Security has led me to develop a passi
 </div>
 
 ## Projects
-- SOC Automation Project
+- <a href="https://github.com/SED2378/SOC-Automation-Project">Automation-project</a>
 - <a href="https://github.com/SED2378/Active-Directory">Active Directory Lab</a>
 
